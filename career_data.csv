@@ -1,0 +1,17 @@
+level,intrest,style,role
+
+Beginner,Data,Analysis,DataAnalyst
+Intermiediate,Data,Modelling,MacineLearningEngineer
+Advanced,Data,AIsystems,Development,AIEngineer
+
+Beginner,Text,Analysis,NLPEngineer
+Intermediate,Text,Modelling,Reasearch,NLPEngineer
+Advanced,Text,Images,Modelling,ComputerVisionengineer
+
+Beginner,Image,Analysis,Images,AISpecialist
+Intermediate,Image,Analysis,AIEngineeer
+Advanced,Image,Data,Research,DataScientist
+
+Beginner,AI Analysis,AIgeneralist
+Intermediate,Images,Development,ComptervisionEngineer
+Advanced,Text,Development,NLPEngineer

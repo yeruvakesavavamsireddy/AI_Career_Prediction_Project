@@ -1,0 +1,4 @@
+## ai carrer profile generator
+## This Project uses only Standard python libraries
+## Now External Packages are required
+python >= 3.8
